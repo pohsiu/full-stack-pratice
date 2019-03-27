@@ -7,7 +7,9 @@
 
 # testing
 /coverage
-
+/dist
+credentials.json
+token.json
 # production
 /build
 
